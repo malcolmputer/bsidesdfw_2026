@@ -1,0 +1,23 @@
+Drill report for bsidesdfw_2026.kicad_pcb
+Created on 2026-10-04T12:45:57
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'bsidesdfw_2026-PTH-drl.gbr' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (119 holes))
+    T2  0.800mm  0.0315"  (20 holes))
+
+    Total plated holes count 139
+
+
+Drill file 'bsidesdfw_2026-NPTH-drl.gbr' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

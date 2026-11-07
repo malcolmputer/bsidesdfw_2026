@@ -1,0 +1,5 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet","LCSC Part"
+"C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13","13","1uF","","","","","","C52923"
+"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13","13","SK6812MINI-E","","","","LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount","https://www.lcsc.com/datasheet/C5149201.pdf","C5149201"
+"R1","1","330","","","","","","C25104"
+"U1","1","ESP32-C6 ""Super Mini""","","","","metro_footprints:ESP32-C6_Super_Mini","",""
